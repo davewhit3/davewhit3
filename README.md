@@ -35,6 +35,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bialas1993&layout=compact&hide=c,c%2B%2B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davewhit3&layout=compact&hide=c,c%2B%2B)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bialas1993&count_private=true&hide=contribs,stars)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davewhit3&count_private=true&hide=contribs,stars)
